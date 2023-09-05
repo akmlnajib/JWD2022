@@ -1,0 +1,58 @@
+[
+    {
+        "nik": "12345678",
+        "nama": "Jamal",
+        "jenisKelamin": "1",
+        "agama": "Islam",
+        "golongan": "III",
+        "gajiPokok": "4500000"
+    },
+    {
+        "nik": "12345679",
+        "nama": "Indri",
+        "jenisKelamin": "0",
+        "agama": "Hindu",
+        "golongan": "II",
+        "gajiPokok": "4500000"
+    },
+    {
+        "nik": "12432",
+        "nama": "Jaenudin",
+        "jenisKelamin": "1",
+        "agama": "Budha",
+        "golongan": "I",
+        "gajiPokok": "242353"
+    },
+    {
+        "nik": "12432",
+        "nama": "Jaenudin",
+        "jenisKelamin": "1",
+        "agama": "Budha",
+        "golongan": "I",
+        "gajiPokok": "242353"
+    },
+    {
+        "nik": "123",
+        "nama": "asf",
+        "jenisKelamin": "1",
+        "agama": "Budha",
+        "golongan": "III",
+        "gajiPokok": "2432"
+    },
+    {
+        "nik": "123",
+        "nama": "jamal",
+        "jenisKelamin": "1",
+        "agama": "Budha",
+        "golongan": "III",
+        "gajiPokok": "23123"
+    },
+    {
+        "nik": "123",
+        "nama": "jamal",
+        "jenisKelamin": "1",
+        "agama": "Budha",
+        "golongan": "III",
+        "gajiPokok": "23123"
+    }
+]
